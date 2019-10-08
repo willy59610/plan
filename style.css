@@ -1,0 +1,36 @@
+.element {
+    width: 200px;
+    height: 150px;
+    background: burlywood;
+    border: 1px black solid;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.element1 {
+    width: 200px;
+    height: 150px;
+    background: burlywood;
+    border: 1px black solid;
+}
+
+#conteneur {
+    display: flex;
+    clear: both;
+    text-align: center;
+
+}
+#conteneur1 {
+    display: flex;
+    clear: both;
+    text-align: center;
+    font-size: 10px;
+    font-family: "Arial Black";
+
+}
+
+body {
+    background-color:grey;
+
+}
